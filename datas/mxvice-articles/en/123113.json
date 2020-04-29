@@ -1,0 +1,41 @@
+{
+    "id": 123113,
+    "title": "Monster Energy: Shoot",
+    "slug": "monster-energy-shoot",
+    "excerpt": "Monster Energy riders prep for A1.",
+    "created": "2020-01-01 18:49:58",
+    "modified": "2020-01-02 09:37:59",
+    "url": "\/123113\/monster-energy-shoot",
+    "categories": [
+        645496159,
+        645496800
+    ],
+    "category": {
+        "id": 645496159,
+        "active": true,
+        "slug": "supercross",
+        "source": "https:\/\/mxvice-en.com\/wp-json\/wp\/v2\/posts?categories=645496159",
+        "name": {
+            "short": "Supercross",
+            "long": "Monster Energy Supercross",
+            "nav": "Monster Energy Supercross"
+        },
+        "components": null,
+        "title": "Monster Energy Supercross",
+        "description": "",
+        "parent": false,
+        "url": "channel\/supercross",
+        "wp_count": 970,
+        "count": 12
+    },
+    "domain": "all",
+    "video": true,
+    "author": "Lewis Phillips",
+    "content": "<table>\n<tbody>\n<tr>\n<td>\n<p dir=\"ltr\" style=\"text-align: center;\"><a href=\"https:\/\/www.youtube.com\/channel\/UCxeEsENwOA2ni3hPqJBhYKg\"><strong>Subscribe to MX Vice on YouTube.<\/strong><\/a><\/p>\n<\/td>\n<\/tr>\n<\/tbody>\n<\/table>\n<div dir=\"ltr\">\n<table>\n<tbody>\n<tr>\n<td>\n<p dir=\"ltr\" style=\"text-align: center;\"><a href=\"https:\/\/instagram.com\/mxvice\/\"><strong>Follow @MXVice on Instagram.<\/strong><\/a><\/p>\n<\/td>\n<\/tr>\n<\/tbody>\n<\/table>\n<\/div>\n<p>After months of preparation both in the gym and on the track, the time has come for a new racing season to begin. For any motorsports fan, each New Year celebration also brings along a heightened sense of anticipation, knowing that in a matter of days the fearless superstars of <a href=\"\/channel\/supercross\"title=\"Supercross Channel\" >Monster Energy Supercross<\/a> will storm out the gate and soar through the air to start a 17-round journey to crown a trio of champions.\u00a0<em>\u2013 Monster Energy<\/em><\/p>\n<figure class=\"video-container\"><iframe width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/pyy9nMm6yZI?rel=0&amp;wmode=transparent\" frameborder=\"0\"><\/iframe><\/figure>\n<p><strong>Video: Monster Energy | Lead Image:\u00a0Yamaha Racing<\/strong><\/p>",
+    "date": "Wednesday  1, January 2020",
+    "updated": true,
+    "preamble": "Subscribe to MX Vice on YouTube. Follow @MXVice on Instagram. After months of preparation both in the gym and on the track, t...",
+    "index": false,
+    "tags": [],
+    "featured_media_caption": ""
+}

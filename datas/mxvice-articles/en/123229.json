@@ -1,0 +1,40 @@
+{
+    "id": 123229,
+    "title": "Video: Press Conference",
+    "slug": "video-press-conference",
+    "excerpt": "The LIVE press conference from A1.",
+    "created": "2020-01-03 07:28:25",
+    "modified": "2020-01-04 02:46:15",
+    "url": "\/123229\/watch-press-conference",
+    "categories": [
+        645496159,
+        645496800
+    ],
+    "category": {
+        "id": 645496159,
+        "active": true,
+        "slug": "supercross",
+        "source": "https:\/\/mxvice-en.com\/wp-json\/wp\/v2\/posts?categories=645496159",
+        "name": {
+            "short": "Supercross",
+            "long": "Monster Energy Supercross",
+            "nav": "Monster Energy Supercross"
+        },
+        "components": null,
+        "title": "Monster Energy Supercross",
+        "description": "",
+        "parent": false,
+        "url": "channel\/supercross",
+        "wp_count": 974,
+        "count": 12
+    },
+    "domain": "all",
+    "author": "Lewis Phillips",
+    "content": "<table>\n<tbody>\n<tr>\n<td>\n<p dir=\"ltr\" style=\"text-align: center;\"><a href=\"https:\/\/www.youtube.com\/channel\/UCxeEsENwOA2ni3hPqJBhYKg\"><strong>Subscribe to MX Vice on YouTube.<\/strong><\/a><\/p>\n<\/td>\n<\/tr>\n<\/tbody>\n<\/table>\n<div dir=\"ltr\">\n<table>\n<tbody>\n<tr>\n<td>\n<p dir=\"ltr\" style=\"text-align: center;\"><a href=\"https:\/\/instagram.com\/mxvice\/\"><strong>Follow @MXVice on Instagram.<\/strong><\/a><\/p>\n<\/td>\n<\/tr>\n<\/tbody>\n<\/table>\n<\/div>\n<p>The 2020 <a href=\"\/channel\/supercross\"title=\"Supercross Channel\" >Monster Energy Supercross<\/a> series will kick off with the annual pre-season press conference on Friday. All of the title hopefuls will take to the stage to explain how they are feeling ahead of the new season and exchange initial blows. This is certainly one not to miss! The press conference will begin at 12:00 PST (local time), which is 20:00 in the United Kingdom and 21:00 in mainland Europe. Take note of that.<\/p>\n<p><iframe id=\"ls_embed_1578036223\" src=\"https:\/\/livestream.com\/accounts\/1543541\/events\/8927990\/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false\" width=\"640\" height=\"360\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"allowfullscreen\"> <\/iframe><\/p>\n<p><strong>Video: <a href=\"\/channel\/supercross\"title=\"Supercross Channel\" >Monster Energy Supercross<\/a> | Lead Image: Race Kawasaki<\/strong><\/p>",
+    "date": "Friday  3, January 2020",
+    "updated": true,
+    "preamble": "Subscribe to MX Vice on YouTube. Follow @MXVice on Instagram. The 2020 Monster Energy Supercross series will kick off with th...",
+    "index": false,
+    "tags": [],
+    "featured_media_caption": ""
+}

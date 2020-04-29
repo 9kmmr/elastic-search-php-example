@@ -1,0 +1,40 @@
+{
+    "id": 123089,
+    "title": "Bike Drop: Dean Wilson",
+    "slug": "bike-drop-dean-wilson",
+    "excerpt": "Dean Wilson hands out the best gift.",
+    "created": "2020-01-01 17:18:00",
+    "modified": "2020-01-06 23:45:11",
+    "url": "\/123089\/bike-drop-dean-wilson",
+    "categories": [
+        645493302
+    ],
+    "category": {
+        "id": 645493302,
+        "active": true,
+        "slug": "videos",
+        "source": "https:\/\/mxvice-en.com\/wp-json\/wp\/v2\/posts?categories=645493302",
+        "name": {
+            "short": "Videos",
+            "long": "Videos",
+            "nav": "Videos"
+        },
+        "components": null,
+        "title": "Videos",
+        "description": "",
+        "parent": false,
+        "url": "channel\/videos",
+        "wp_count": 3,
+        "count": 3
+    },
+    "domain": "all",
+    "video": true,
+    "author": "Lewis Phillips",
+    "content": "<table>\n<tbody>\n<tr>\n<td>\n<p dir=\"ltr\" style=\"text-align: center;\"><a href=\"https:\/\/www.youtube.com\/channel\/UCxeEsENwOA2ni3hPqJBhYKg\"><strong>Subscribe to MX Vice on YouTube.<\/strong><\/a><\/p>\n<\/td>\n<\/tr>\n<\/tbody>\n<\/table>\n<div dir=\"ltr\">\n<table>\n<tbody>\n<tr>\n<td>\n<p dir=\"ltr\" style=\"text-align: center;\"><a href=\"https:\/\/instagram.com\/mxvice\/\"><strong>Follow @MXVice on Instagram.<\/strong><\/a><\/p>\n<\/td>\n<\/tr>\n<\/tbody>\n<\/table>\n<\/div>\n<p>Dean Wilson is at it again! Hot on the heels of such a successful 50cc giveaway twelve months ago, Wilson turned up at a random kid's house dressed as Santa Claus with a brand new 65cc from Husqvarna. The bike was obviously done up to look just like his race bike too! Not only that, Wilson also let him skip school and took him to the house of his favourite rider. That all sounds pretty good, huh? Watch it all go down in the video below.<\/p>\n<figure class=\"video-container\"><iframe width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/MUVS-99v3LM?rel=0&amp;wmode=transparent\" frameborder=\"0\"><\/iframe><\/figure>\n<p><strong>Video: Dean Wilson | Lead Image: Husqvarna Motorcycles<\/strong><\/p>",
+    "date": "Wednesday  1, January 2020",
+    "updated": true,
+    "preamble": "Subscribe to MX Vice on YouTube. Follow @MXVice on Instagram. Dean Wilson is at it again! Hot on the heels of such a successf...",
+    "index": false,
+    "tags": [],
+    "featured_media_caption": ""
+}

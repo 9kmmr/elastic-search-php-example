@@ -1,0 +1,58 @@
+{
+    "id": 131275,
+    "title": "450SX: Opiniones",
+    "slug": "450sx-opiniones",
+    "excerpt": "Cinco contendientes hablan sobre el campeonato 450SX",
+    "created": "2020-04-20 18:44:18",
+    "modified": "2020-04-21 08:38:26",
+    "url": "\/131275\/450sx-roundtable-1",
+    "categories": [
+        645496159,
+        645496800,
+        645497130
+    ],
+    "category": {
+        "id": 645497130,
+        "active": true,
+        "slug": "videos-monster-energy-supercross",
+        "source": "https:\/\/mxvice-en.com\/es\/wp-json\/wp\/v2\/posts?categories=645497130",
+        "name": {
+            "short": "Videos",
+            "long": "Videos",
+            "nav": "Videos"
+        },
+        "components": null,
+        "title": "Videos",
+        "description": "",
+        "parent": {
+            "id": 645496800,
+            "slug": "monster-energy-supercross",
+            "name": {
+                "short": "Monster Energy Supercross",
+                "long": "Monster Energy Supercross",
+                "nav": "Monster Energy Supercross"
+            },
+            "parent": false
+        },
+        "url": "channel\/videos-monster-energy-supercross",
+        "wp_count": 47,
+        "count": 12
+    },
+    "author": "Lewis Phillips",
+    "author_id": 12,
+    "author_avatar": "https:\/\/i0.wp.com\/mxvice-en.com\/wp-content\/uploads\/2014\/01\/lewis-phillips1.jpg?resize=150%2C150&ssl=1",
+    "author_url": "authors\/Lewis Phillips",
+    "sponsored": "0",
+    "domain": "all",
+    "video": true,
+    "content": "<table>\n<tbody>\n<tr>\n<td>\n<p dir=\"ltr\" style=\"text-align: center\"><a style=\"font-family: inherit;font-size: inherit\" href=\"https:\/\/www.instagram.com\/mxvice_es\/\"><strong>Sigue a MX Vice Espa\u00f1a en Instagram<\/strong><\/a><\/p>\n<\/td>\n<\/tr>\n<\/tbody>\n<\/table>\n<div class=\"partners\">\n<div class=\"cycle-slideshow\" style=\"margin: 0px;padding: 0px;overflow: hidden\" data-cycle-fx=\"carousel\" data-cycle-slides=\" >\n<p> a\" data-cycle-carousel-visible=\"4\" data-cycle-carousel-fluid=\"true\"><\/p>\n<div class=\"cycle-carousel-wrap\">\n<table>\n<tbody>\n<tr>\n<td>\n<p dir=\"ltr\" style=\"text-align: center\"><strong><a href=\"http:\/\/bit.ly\/38GrqCk\">Descubre la nueva oferta de GreenlandMX en botas<\/a><\/strong><\/p>\n<\/td>\n<\/tr>\n<\/tbody>\n<\/table>\n<\/div>\n<\/div>\n<\/div>\n<p style=\"text-align: justify\">Es realmente interesante ver a diferentes promotores reaccionar a la pandemia actual de COVID-19. Todo el mundo parece tener ideas diferentes, incluida la gente de Feld Entertainment. \u00a1Su nuevo video \u2018Supercross Roundtable' incluye a Eli Tomac, Ken Roczen, Justin Barcia, Cooper Webb y Jason Anderson en una llamada de Zoom! Ricky Carmichael organiz\u00f3 esa conferencia de prensa virtual, que se puede ver a continuaci\u00f3n.<\/p>\n<figure class=\"video-container\"><iframe width=\"640\" height=\"480\" src=\"https:\/\/www.youtube.com\/embed\/qb6E_yI3QNc?rel=0&amp;wmode=transparent\" frameborder=\"0\"><\/iframe><\/figure>\n<p><strong>Video: <a href=\"\/channel\/supercross\"title=\"Supercross Channel\" >Monster Energy Supercross<\/a> | Imagen Principal: Race Kawasaki<\/strong><\/p>",
+    "sponsor_name": false,
+    "sponsor_url": false,
+    "sponsor_logo": "",
+    "date": "Monday 20, April 2020",
+    "updated": true,
+    "preamble": "Sigue a MX Vice Espa\u00c3\u00b1a en Instagram Descubre la nueva oferta de GreenlandMX en botas Es realmente interesante ver a diferent...",
+    "index": false,
+    "tags": [],
+    "featured_media_caption": ""
+}

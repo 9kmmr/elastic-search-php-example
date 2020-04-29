@@ -1,0 +1,41 @@
+{
+    "id": 123044,
+    "title": "TV Preview: Supercross",
+    "slug": "tv-preview-supercross",
+    "excerpt": "2020 Monster Energy Supercross preview.",
+    "created": "2019-12-31 22:22:45",
+    "modified": "2020-01-02 08:51:16",
+    "url": "\/123044\/tv-preview-supercross",
+    "categories": [
+        645496159,
+        645496800
+    ],
+    "category": {
+        "id": 645496159,
+        "active": true,
+        "slug": "supercross",
+        "source": "https:\/\/mxvice-en.com\/wp-json\/wp\/v2\/posts?categories=645496159",
+        "name": {
+            "short": "Supercross",
+            "long": "Monster Energy Supercross",
+            "nav": "Monster Energy Supercross"
+        },
+        "components": null,
+        "title": "Monster Energy Supercross",
+        "description": "",
+        "parent": false,
+        "url": "channel\/supercross",
+        "wp_count": 969,
+        "count": 12
+    },
+    "domain": "all",
+    "video": true,
+    "author": "Lewis Phillips",
+    "content": "<table>\n<tbody>\n<tr>\n<td>\n<p dir=\"ltr\" style=\"text-align: center;\"><a href=\"https:\/\/www.youtube.com\/channel\/UCxeEsENwOA2ni3hPqJBhYKg\"><strong>Subscribe to MX Vice on YouTube.<\/strong><\/a><\/p>\n<\/td>\n<\/tr>\n<\/tbody>\n<\/table>\n<div dir=\"ltr\">\n<table>\n<tbody>\n<tr>\n<td>\n<p dir=\"ltr\" style=\"text-align: center;\"><a href=\"https:\/\/instagram.com\/mxvice\/\"><strong>Follow @MXVice on Instagram.<\/strong><\/a><\/p>\n<\/td>\n<\/tr>\n<\/tbody>\n<\/table>\n<div dir=\"ltr\"><\/div>\n<div dir=\"ltr\"><span>The 2020 <a href=\"\/channel\/supercross\"title=\"Supercross Channel\" >Monster Energy Supercross<\/a> preview aired on NBC in the United States earlier this week. For the first time, fans all over the world have an opportunity to see the broadcast as the full show has been uploaded by the folks at Feld Motor Sports. The video below includes insight from potential champs like Ken Roczen, Eli Tomac and Adam Cianciarulo. The reigning 450SX champion, Cooper Webb, is obviously heavily featured as well.<\/span><\/div>\n<\/div>\n<figure class=\"video-container\"><iframe width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/uRT2k04j24Y?rel=0&amp;wmode=transparent\" frameborder=\"0\"><\/iframe><\/figure>\n<p><strong>Video: <a href=\"\/channel\/supercross\"title=\"Supercross Channel\" >Monster Energy Supercross<\/a> | Lead Image: Yamaha Racing<\/strong><\/p>",
+    "date": "Tuesday 31, December 2019",
+    "updated": true,
+    "preamble": "Subscribe to MX Vice on YouTube. Follow @MXVice on Instagram. The 2020 Monster Energy Supercross preview aired on NBC in the ...",
+    "index": false,
+    "tags": [],
+    "featured_media_caption": ""
+}

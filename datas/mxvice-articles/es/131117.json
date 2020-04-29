@@ -1,0 +1,51 @@
+{
+    "id": 131117,
+    "title": "V\u00eddeo: Cole Seely",
+    "slug": "video-cole-seely",
+    "excerpt": "Cole Seely se sincera",
+    "created": "2020-04-16 17:51:06",
+    "modified": "2020-04-17 08:39:03",
+    "url": "\/131117\/new-video-cole-seely",
+    "categories": [
+        645496159,
+        645496174,
+        645497130
+    ],
+    "category": {
+        "id": 645497130,
+        "active": true,
+        "slug": "videos-monster-energy-supercross",
+        "source": "https:\/\/mxvice-en.com\/es\/wp-json\/wp\/v2\/posts?categories=645497130",
+        "name": {
+            "short": "Videos",
+            "long": "Videos",
+            "nav": "Videos"
+        },
+        "components": null,
+        "title": "Videos",
+        "description": "",
+        "parent": {
+            "id": 645496800,
+            "slug": "monster-energy-supercross",
+            "name": {
+                "short": "Monster Energy Supercross",
+                "long": "Monster Energy Supercross",
+                "nav": "Monster Energy Supercross"
+            },
+            "parent": false
+        },
+        "url": "channel\/videos-monster-energy-supercross",
+        "wp_count": 45,
+        "count": 12
+    },
+    "domain": "all",
+    "video": true,
+    "author": "Lewis Phillips",
+    "content": "<table>\n<tbody>\n<tr>\n<td>\n<p dir=\"ltr\" style=\"text-align: center\"><a style=\"font-family: inherit;font-size: inherit\" href=\"https:\/\/www.instagram.com\/mxvice_es\/\"><strong>Sigue a MX Vice Espa\u00f1a en Instagram<\/strong><\/a><\/p>\n<\/td>\n<\/tr>\n<\/tbody>\n<\/table>\n<div class=\"partners\">\n<div class=\"cycle-slideshow\" style=\"margin: 0px;padding: 0px;overflow: hidden\" data-cycle-fx=\"carousel\" data-cycle-slides=\" >\n<p> a\" data-cycle-carousel-visible=\"4\" data-cycle-carousel-fluid=\"true\"><\/p>\n<div class=\"cycle-carousel-wrap\">\n<table>\n<tbody>\n<tr>\n<td>\n<p dir=\"ltr\" style=\"text-align: center\"><strong><a href=\"http:\/\/bit.ly\/38GrqCk\">Descubre la nueva oferta de GreenlandMX en botas<\/a><\/strong><\/p>\n<\/td>\n<\/tr>\n<\/tbody>\n<\/table>\n<\/div>\n<\/div>\n<\/div>\n<p style=\"text-align: justify\">Cole Seely cambi\u00f3 de Honda a KTM a principios de esta semana, lo que soprendi\u00f3 a los fans de todo el mundo (as\u00ed como algunas publicaciones muy honestas en sus redes sociales). En este nuevo vlog, explica por qu\u00e9 hizo el cambio y por qu\u00e9 la relaci\u00f3n con Honda se volvi\u00f3 amarga. Seely es m\u00e1s que honesto de lo que la mayor\u00eda esperar\u00eda.<\/p>\n<figure class=\"video-container\"><iframe width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/zapA_Fg6xHk?rel=0&amp;wmode=transparent\" frameborder=\"0\"><\/iframe><\/figure>\n<p><strong>Video: Cole Seely | Imagen Principal: Honda Racing Corporation<\/strong><\/p>",
+    "date": "Thursday 16, April 2020",
+    "updated": true,
+    "preamble": "Sigue a MX Vice Espa\u00c3\u00b1a en Instagram Descubre la nueva oferta de GreenlandMX en botas Cole Seely cambi\u00c3\u00b3 de Honda a KTM a pri...",
+    "index": false,
+    "tags": [],
+    "featured_media_caption": ""
+}

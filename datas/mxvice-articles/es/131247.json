@@ -1,0 +1,59 @@
+{
+    "id": 131247,
+    "title": "Video: La Historia de Max Anstie",
+    "slug": "video-la-historia-de-max-anstie",
+    "excerpt": "Max Anstie persigue el sue\u00f1o americano",
+    "created": "2020-04-20 14:56:20",
+    "modified": "2020-04-20 18:16:38",
+    "url": "\/131247\/video-max-anstie-story",
+    "categories": [
+        645496159,
+        645496174,
+        645496800,
+        645497130
+    ],
+    "category": {
+        "id": 645497130,
+        "active": true,
+        "slug": "videos-monster-energy-supercross",
+        "source": "https:\/\/mxvice-en.com\/es\/wp-json\/wp\/v2\/posts?categories=645497130",
+        "name": {
+            "short": "Videos",
+            "long": "Videos",
+            "nav": "Videos"
+        },
+        "components": null,
+        "title": "Videos",
+        "description": "",
+        "parent": {
+            "id": 645496800,
+            "slug": "monster-energy-supercross",
+            "name": {
+                "short": "Monster Energy Supercross",
+                "long": "Monster Energy Supercross",
+                "nav": "Monster Energy Supercross"
+            },
+            "parent": false
+        },
+        "url": "channel\/videos-monster-energy-supercross",
+        "wp_count": 47,
+        "count": 12
+    },
+    "author": "Lewis Phillips",
+    "author_id": 12,
+    "author_avatar": "https:\/\/i0.wp.com\/mxvice-en.com\/wp-content\/uploads\/2014\/01\/lewis-phillips1.jpg?resize=150%2C150&ssl=1",
+    "author_url": "authors\/Lewis Phillips",
+    "sponsored": "0",
+    "domain": "all",
+    "video": true,
+    "content": "<table>\n<tbody>\n<tr>\n<td>\n<p dir=\"ltr\" style=\"text-align: center\"><a style=\"font-family: inherit;font-size: inherit\" href=\"https:\/\/www.instagram.com\/mxvice_es\/\"><strong>Sigue a MX Vice Espa\u00f1a en Instagram<\/strong><\/a><\/p>\n<\/td>\n<\/tr>\n<\/tbody>\n<\/table>\n<div class=\"partners\">\n<div class=\"cycle-slideshow\" style=\"margin: 0px;padding: 0px;overflow: hidden\" data-cycle-fx=\"carousel\" data-cycle-slides=\" >\n<p> a\" data-cycle-carousel-visible=\"4\" data-cycle-carousel-fluid=\"true\"><\/p>\n<div class=\"cycle-carousel-wrap\">\n<table>\n<tbody>\n<tr>\n<td>\n<p dir=\"ltr\" style=\"text-align: center\"><strong><a href=\"http:\/\/bit.ly\/38GrqCk\">Descubre la nueva oferta de GreenlandMX en botas<\/a><\/strong><\/p>\n<\/td>\n<\/tr>\n<\/tbody>\n<\/table>\n<\/div>\n<\/div>\n<\/div>\n<p style=\"text-align: justify\">\u00bfC\u00f3mo termin\u00f3 Max Anstie dejando Europa y mud\u00e1ndose a los Estados Unidos con H.E.P Motorsports? \u00bfQu\u00e9 sucedi\u00f3 cuando se lesion\u00f3 el tal\u00f3n de aquiles y tuvo que retirarse de la serie completa de <a href=\"\/channel\/supercross\"title=\"Supercross Channel\" >Monster Energy Supercross<\/a> 2020? \u00a1La historia de # 103 finalmente se cuenta en este video de MX Vice desde el sur de California! Anstie detalla su decisi\u00f3n de fichar por Suzuki, por qu\u00e9 sinti\u00f3 que era el momento adecuado para salir del Campeonato Mundial de Motocross FIM y c\u00f3mo esa lesi\u00f3n termin\u00f3 siendo tan grave.<\/p>\n<figure class=\"video-container\"><iframe width=\"640\" height=\"480\" src=\"https:\/\/www.youtube.com\/embed\/q2sro8afegg?rel=0&amp;wmode=transparent\" frameborder=\"0\"><\/iframe><\/figure>\n<p><strong>Video: MX Vice | Imagen Principal: H.E.P Motorsports<\/strong><\/p>",
+    "sponsor_name": false,
+    "sponsor_url": false,
+    "sponsor_logo": "",
+    "date": "Monday 20, April 2020",
+    "updated": true,
+    "preamble": "Sigue a MX Vice Espa\u00c3\u00b1a en Instagram Descubre la nueva oferta de GreenlandMX en botas \u00c2\u00bfC\u00c3\u00b3mo termin\u00c3\u00b3 Max Anstie dejando Eur...",
+    "index": false,
+    "tags": [],
+    "featured_media_caption": ""
+}
